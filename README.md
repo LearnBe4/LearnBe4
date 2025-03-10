@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh Kumar
-- 👀 I’m interested in teaching various technology and help people in thier carrear
-- 🌱 I’m currently learning different tech stack to create training content on the same
+- 👀 I’m interested in teaching various technology and help people in their carrear
+- 🌱 I’m learning different tech stack to create training content on the same
 
 <!---
 LearnBe4/LearnBe4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
